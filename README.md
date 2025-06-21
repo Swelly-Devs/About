@@ -11,7 +11,7 @@
 
 I'm a full-stack developer who loves building powerful and scalable Discord bots with custom backend systems and integrations.
 
-- 🤖 Creator of **Swelly** – An advanced music & utility Discord bot
+- 🤖 Creator of **Swelly** – An advanced Discord music bot
 
 - **Node.js** / **Express.js**
 - **REST APIs** / Webhooks
