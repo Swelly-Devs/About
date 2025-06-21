@@ -38,7 +38,7 @@ I'm a full-stack developer who loves building powerful and scalable Discord bots
 ## 💻 My Discord Presence
 
 <!-- Replace YOUR_USER_ID with your real Discord user ID -->
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/742984554729570415)
+[![Discord Presence](https://lanyard.cnrad.dev/api/742984554729570415?showDisplayName=true&hideTag=true)](https://discord.com/users/742984554729570415)
 
 
 ---
